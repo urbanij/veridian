@@ -1,0 +1,3 @@
+[submodule "veridian-slang/slang_wrapper/slang"]
+	path = veridian-slang/slang_wrapper/slang
+	url = https://github.com/MikePopoloski/slang
